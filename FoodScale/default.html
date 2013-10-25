@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>FoodScale</title>
+
+    <!-- WinJS 参照 -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- FoodScale 参照 -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/easeljs-0.6.0.min.js"></script>
+
+</head>
+<body>
+    <div id="main_container">
+        <div id="canvas_box">
+            <h1>
+                <p id="scale_status" style="font-family: Impact;">Please draw your food here!</p>
+            </h1>
+
+            <div style="width: 1300px; height: 800px; border: 1px outset #494949; margin-bottom: 18px; margin-left: 10px;">
+                <canvas id="myCanvas" width="1300" height="800"></canvas>
+            </div>
+            <div style="text-align: right;">
+                <button id="calcButton">Calculate your carorie</button>
+                <button id="reWrite">Reset</button>
+            </div>
+        </div>
+
+        <div id="menu_box">
+            <div id="menu_body">
+                <h1>
+                    <p style="color: antiquewhite; font-family: Impact">Please select your food.</p>
+                </h1>
+                <select id="foods" size="4" style="width: 550px;">
+                    <option value="2.28">pizza, regular crust</option>
+                    <option value="0.6416">Bread</option>
+                    <option value="1.194" selected="selected">Bagel</option>
+                    <option value="3.64">Shoulder steak, grilled</option>
+                    <option value="3.838">Pork chop, boneless, broiled</option>
+
+                </select>
+
+                <div id="calorie_field">
+
+                    <div id="calorie">
+                    </div>
+                    <div id="kcal">
+                        kcal
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

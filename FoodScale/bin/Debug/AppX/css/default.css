@@ -1,0 +1,63 @@
+﻿body {
+        color: #494949;
+            background-color:antiquewhite;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
+
+#main_container {
+
+}
+
+#calorie_field {
+    margin-top:500px;
+    margin-bottom: 100px;
+    height: 200px;
+    background-color: antiquewhite;
+    font-family: Impact;
+}
+
+#kcal {
+    float: right;
+    font-size: 70px;
+    text-align: right;
+    margin-top: 100px;
+    margin-right:50px;
+    color: #494949;
+}
+
+#calorie {
+    font-size: 160px;
+    margin-left: 100px;
+    float: left;
+    color: #B22222;
+}
+
+#canvas_box {
+    margin: 10px;
+    width: 1300px;
+    float: left;
+}
+
+
+
+#menu_box {
+    width: 580px;
+    height: 1080px;
+    float: right;
+    background-color: #494949;
+}
+
+#menu_body {
+    margin: 10px;
+}

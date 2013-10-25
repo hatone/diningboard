@@ -1,0 +1,13 @@
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bin\Debug\resources.pri
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bin\Debug\AppxManifest.xml
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bin\Debug\FoodScale.build.appxrecipe
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\priconfig.xml.intermediate
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\layout.resfiles.intermediate
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\resources.resfiles.intermediate
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\pri.resfiles.intermediate
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\priconfig.xml
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\layout.resfiles
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\resources.resfiles
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\pri.resfiles
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\LanguageQualifiers.txt
+c:\users\owner\documents\visual studio 2012\Projects\FoodScale\FoodScale\bld\Debug\ProjectArchitectures.txt
